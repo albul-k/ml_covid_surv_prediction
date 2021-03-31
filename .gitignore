@@ -1,3 +1,4 @@
 .vscode/
 catboost_info/
 data_base/
+.ipynb_checkpoints/
