@@ -1,0 +1,77 @@
+{
+    "new_features": [
+        {
+            "feature1": "Feature_31",
+            "feature2": "Feature_106",
+            "operation": "sum",
+            "score": 0.5208132328
+        },
+        {
+            "feature1": "Feature_90",
+            "feature2": "Feature_106",
+            "operation": "sum",
+            "score": 0.5539944731
+        },
+        {
+            "feature1": "Feature_109",
+            "feature2": "Feature_106",
+            "operation": "multiply",
+            "score": 0.5583971324
+        },
+        {
+            "feature1": "Feature_109",
+            "feature2": "Feature_106",
+            "operation": "sum",
+            "score": 0.5583971324
+        },
+        {
+            "feature1": "Feature_62",
+            "feature2": "Feature_106",
+            "operation": "multiply",
+            "score": 0.5583971324
+        },
+        {
+            "feature1": "Feature_62",
+            "feature2": "Feature_106",
+            "operation": "sum",
+            "score": 0.5583971324
+        },
+        {
+            "feature1": "Feature_79",
+            "feature2": "Feature_106",
+            "operation": "sum",
+            "score": 0.5657849845
+        },
+        {
+            "feature1": "Feature_31",
+            "feature2": "Feature_1122",
+            "operation": "diff",
+            "score": 0.5670117538
+        },
+        {
+            "feature1": "Feature_106",
+            "feature2": "Feature_66",
+            "operation": "diff",
+            "score": 0.5670354234
+        },
+        {
+            "feature1": "Feature_92",
+            "feature2": "Feature_106",
+            "operation": "sum",
+            "score": 0.568118733
+        }
+    ],
+    "new_columns": [
+        "Feature_31_sum_Feature_106",
+        "Feature_90_sum_Feature_106",
+        "Feature_109_multiply_Feature_106",
+        "Feature_109_sum_Feature_106",
+        "Feature_62_multiply_Feature_106",
+        "Feature_62_sum_Feature_106",
+        "Feature_79_sum_Feature_106",
+        "Feature_31_diff_Feature_1122",
+        "Feature_106_diff_Feature_66",
+        "Feature_92_sum_Feature_106"
+    ],
+    "ml_task": "binary_classification"
+}
